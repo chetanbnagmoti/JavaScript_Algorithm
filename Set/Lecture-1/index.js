@@ -7,6 +7,7 @@ set.add(4);
 // console.log(set.size);
 set.clear();
 
+
 for(const item of set){ 
     console.log(item); 
 }
